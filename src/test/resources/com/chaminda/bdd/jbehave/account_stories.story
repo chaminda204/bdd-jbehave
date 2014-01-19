@@ -1,4 +1,4 @@
-Scenario: Depositing money into bank account ffdgdg
+Scenario: Depositing money into bank account
   
 Given the Accounts initial balance is $<initial>
 When I deposit $<amount>
